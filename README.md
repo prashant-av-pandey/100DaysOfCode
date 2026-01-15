@@ -77,9 +77,9 @@ I am building a strong foundation in Python and full-stack development while pre
 
 ## 🤝 Connect With Me
 
-- LinkedIn: *Add your link here*  
-- Peerlist: *Add your link here*  
-- GitHub: *You’re already here 😄*
+- LinkedIn: [text](https://www.linkedin.com/in/prashant-pandey-insight/)  
+- Peerlist: [text](https://peerlist.io/prashant_pandey)
+- GitHub: [*You’re already here 😄*](https://github.com/prashant-av-pandey/100DaysOfCode)
 
 ---
 
